@@ -1,7 +1,7 @@
 # Self-supervised-paper
-Scaling and Benchmarking Self-Supervised Visual Representation Learning
-Self-Supervised Learning by Cross-Modal Audio-Video Clustering
-Unsupervised Visual Representation Learning by Context Prediction
+Scaling and Benchmarking Self-Supervised Visual Representation Learning  
+Self-Supervised Learning by Cross-Modal Audio-Video Clustering  
+Unsupervised Visual Representation Learning by Context Prediction  
 Unsupervised Representation Learning by Predicting Image Rotations
 SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation
 Self-Supervised Learning of 3D Human Pose using Multi-view Geometry
