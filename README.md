@@ -14,8 +14,9 @@ Revisiting Self-Supervised Visual Representation Learning
 Multi-task Self-Supervised Visual Learning  
 
 # Self-supervised-paper（Important！！！）
-1、Momentum Contrast for Unsupervised Visual Representation Learning （Moco）
-2、Improved Baselines with Momentum Contrastive Learning （Moco v2）
-3、Big Self-Supervised Models are Strong Semi-Supervised Learners （SimCLR）
-4、Invariant Information Clustering for Unsupervised Image Classification and Segmentation （IIC）
-5、Contrastive Multiview Coding （CMC）
+
+1、Momentum Contrast for Unsupervised Visual Representation Learning （Moco）  
+2、Improved Baselines with Momentum Contrastive Learning （Moco v2）  
+3、Big Self-Supervised Models are Strong Semi-Supervised Learners （SimCLR）  
+4、Invariant Information Clustering for Unsupervised Image Classification and Segmentation （IIC）  
+5、Contrastive Multiview Coding （CMC）  
